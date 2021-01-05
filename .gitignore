@@ -1,0 +1,15 @@
+*.wgt
+.class
+.com
+.dll
+.exe
+.o
+.so
+.classpath
+.project
+.settings
+.vs/
+.bin/
+/obj
+/objects
+\objects
