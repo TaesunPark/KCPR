@@ -11,7 +11,7 @@
 	document.getElementById('number').innerHTML="0";						
 	
 	function timer() {				
-		alert("good : "+good.toString() + '\n'+"bad : "+bad.toString()+ '\n' + "percent : "+ percent.toString() );
+		alert("good : "+good.toString() + '\n'+"bad : "+bad.toString()+ '\n' + "percent : "+ percent.toString()+"%" );
 	    location.replace("../index.html");	    
 	}
 	
